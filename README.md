@@ -13,7 +13,7 @@ The project is built based on:
 - Solid State Relay that turns on and off the load;
 - TagoIO as IoT platform that will receive all values to populates the dashboard.
 
-THIS A OPEN PROJECT AND YOU CAN IMPROVE IT OR MODIFY, JUST REMEMBER US AS SOURCE OF INFORMATION ;)
+THIS A OPEN PROJECT AND YOU CAN DOWNLOAD THIS TO USE FOR YOUR OWN NEEDS, JUST REMEMBER US AS SOURCE OF INFORMATION ;)
 
 Enjoy it!
 Eder Andrade.
