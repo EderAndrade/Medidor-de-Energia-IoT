@@ -1,7 +1,7 @@
 
 Medidor de energia IoT.
 
-This is an IoT project build with the better and most popular IoT module, the ESP32.
+This is an IoT project built with the better and most popular IoT module, the ESP32.
 
 The project is built based on:
 
